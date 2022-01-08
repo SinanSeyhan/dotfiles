@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = seyhan.sinan@gmail.com
+	name = sinanseyhan
